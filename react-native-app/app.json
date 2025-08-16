@@ -1,0 +1,9 @@
+{
+  "name": "MCPSearchApp",
+  "displayName": "MCP Search",
+  "version": "1.0.0",
+  "description": "Aplicación de búsqueda web usando MCP (Model Context Protocol)",
+  "main": "index.js",
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
